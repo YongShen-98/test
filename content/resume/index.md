@@ -1,10 +1,18 @@
+---
+title: Resume
+---
+
 ### Current Academic Appointments 
+
+- Visiting Professor of Finance, CKGSB, 2022 – present
 - Chong Khoon Lin Professor of Real Estate and Professor of Finance,
 - Columbia Business School, Columbia University, July 2007 – present (on leave)
 - Research Associate, National Bureau of Economic Research (NBER), 2009 – present
 - Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present
+
 ### Past Academic Appointments
-- Visiting Professor of Finance, CKGSB, 2012, 2020, 2022
+
+- Visiting Professor of Finance, CKGSB, 2012, 2020
 
 - Faculty Research Fellow, National Bureau of Economic Research, 2007—2009
 
@@ -24,10 +32,16 @@
 
   William E. Simon School of Business Administration, University of Rochester, 
   July 2002—June 2004
+
 ### Education
+
 - Ph.D., Finance, The Graduate School of Business, Stanford University, 2002
 - M.I. A., The School of Global Policy and Strategy (GPS), formerly known as 
   The Graduate School of International Relations and Pacific Studies (IR/PS), 
   University of California, San Diego (UCSD), 1997
 - M.S., Chemistry, California Institute of Technology (Caltech), 1995
 - B.S., Physical Chemistry, Nanjing University, Nanjing, China, 1992
+
+### Research Fields
+
+- Corporate Finance, Asset Pricing, Macroeconomics

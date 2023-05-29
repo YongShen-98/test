@@ -1,4 +1,4 @@
-baseurl = "https://YongShen-98.github.io/test/"
+baseurl = "nengwang-economics.com/"
 title = "neng wang"
 theme = "hugo-coder"
 languagecode = "en"
@@ -151,11 +151,3 @@ customRemoteJS = []
   name = "Research"
   weight = 2
   url = "research/"
-[[menu.main]]
-  name = "Editorial"
-  weight = 3
-  url = "editorial"
-[[menu.main]]
-  name = "Activities"
-  weight = 4
-  url = "activities"
