@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on neng wang</title>
-    <link>https://nengwang-economics.com/authors/</link>
+    <link>https://github.com/YongShen-98/test/authors/</link>
     <description>Recent content in Authors on neng wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://nengwang-economics.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://github.com/YongShen-98/test/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

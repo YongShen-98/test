@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on neng wang</title>
-    <link>https://nengwang-economics.com/series/</link>
+    <link>https://github.com/YongShen-98/test/series/</link>
     <description>Recent content in Series on neng wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://nengwang-economics.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://github.com/YongShen-98/test/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
