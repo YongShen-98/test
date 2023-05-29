@@ -2,24 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://YongShen-98.github.io/test/research/</loc>
+    <loc>nengwang-economics.com/accepted/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/resume/</loc>
+    <loc>nengwang-economics.com/other/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/authors/</loc>
+    <loc>nengwang-economics.com/working/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/categories/</loc>
+    <loc>nengwang-economics.com/authors/</loc>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/editorial/</loc>
+    <loc>nengwang-economics.com/categories/</loc>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/</loc>
+    <loc>nengwang-economics.com/</loc>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/activities/</loc>
+    <loc>nengwang-economics.com/research/</loc>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/series/</loc>
+    <loc>nengwang-economics.com/resume/</loc>
   </url><url>
-    <loc>https://YongShen-98.github.io/test/tags/</loc>
+    <loc>nengwang-economics.com/series/</loc>
+  </url><url>
+    <loc>nengwang-economics.com/tags/</loc>
   </url>
 </urlset>
